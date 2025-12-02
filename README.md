@@ -1,6 +1,12 @@
 #  📚 Homework Submission Platform API
+![Java](https://img.shields.io/badge/Java-17-red)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-API-brightgreen)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+![Swagger](https://img.shields.io/badge/Docs-Swagger-yellow)
+![JUnit](https://img.shields.io/badge/Testing-JUnit-important)
 
 A personal backend development project designed to strengthen my skills in building real-world REST APIs using Java and Spring Boot. The system enables students to submit homework (with file uploads) and allows teachers to review, filter, and grade submissions. It follows clean architecture principles with a service layer, DTOs, file handling, and unit-tested business logic.
+
 
 ## 🚀 Features
 ### Student Features
@@ -45,6 +51,8 @@ A personal backend development project designed to strengthen my skills in build
 
 ## 🧰 Tech Stack
 
+
+
 * Backend: Java 17, Spring Boot
 * Libraries/Frameworks: Spring Web, Spring Data JPA, Spring Validation
 * Database: MySQL
@@ -52,6 +60,7 @@ A personal backend development project designed to strengthen my skills in build
 * Documentation: Swagger 
 * Storage: Local filesystem (/uploads)
 * Build Tool: Maven
+
 
 ## 📁 Project Structure
 src/main/java/
